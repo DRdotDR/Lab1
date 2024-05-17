@@ -1,0 +1,7 @@
+# manual
+DEVICE=enp0s8
+BOOTPROTO=none
+ONBOOT=yes
+PREFIX=24
+IPADDR=10.2.6.30
+
